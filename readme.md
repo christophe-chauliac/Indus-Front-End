@@ -3,5 +3,5 @@ Formation industrialisation Front-End
 
 ## Liens
 
-* [Chocolatey] (https://chocolatey.org/)
-* [SourceTree] (https://www.sourcetreeapp.com/)
+* [Chocolatey](https://chocolatey.org/)
+* [SourceTree](https://www.sourcetreeapp.com/)
