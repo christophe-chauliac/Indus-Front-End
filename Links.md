@@ -54,33 +54,33 @@ https://github.com/pnpm/node-package-manager-benchmark
 
 #### Sur le registre npm
 
-• Moteur de recherche
+- Moteur de recherche
 https://www.npmjs.com
 https://npmsearch.com
-• Regarder les stats d'un paquet :
+- Regarder les stats d'un paquet :
 https://www.npmjs.com/package/bootstrap
-• Paquets npm les plus utilisées (en nombre de dépendances)
+- Paquets npm les plus utilisées (en nombre de dépendances)
 https://www.npmjs.com/browse/depended
 
 #### Sur GitHub
 
-• Recherche par nombre d'étoiles :
+- Recherche par nombre d'étoiles :
 https://github.com/search?q=stars%3A%3E0
-• Explorer les projets mis en avant par GitHub
+- Explorer les projets mis en avant par GitHub
 https://github.com/explore
-• Projets qui reçoivent en ce moment le plus d'étoiles
+- Projets qui reçoivent en ce moment le plus d'étoiles
 https://github.com/trending
 
 #### Awesome Lists
 
 https://github.com/sindresorhus/awesome
-• Awesome Node.js
+- Awesome Node.js
 https://github.com/sindresorhus/awesome-nodejs
-• Awesome Frontend
+- Awesome Frontend
 https://github.com/dypsilon/frontend-dev-bookmarks
-• Awesome React
+- Awesome React
 https://github.com/enaqx/awesome-react
-• Awesome Angular
+- Awesome Angular
 https://github.com/gdi2290/awesome-angular
 
 #### Autres
