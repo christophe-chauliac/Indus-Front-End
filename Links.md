@@ -83,7 +83,7 @@ https://github.com/enaqx/awesome-react
 - Awesome Angular
 https://github.com/gdi2290/awesome-angular
 
-#### Autres
+#### Autres (stats d'utilisation des applis/modules)
 
 https://bestof.js.org/
 https://npmcharts.com/
@@ -107,3 +107,12 @@ https://getmdl.io/
 
 ### Materialize CSS
 https://materializecss.com/
+
+## JS - Modules - Loader - Bundler
+
+### Conversion de système de modules
+rollups.js (tree-shaking notamment)
+https://rollupjs.org/guide/en
+
+### Webpack
+https://webpack.js.org/
