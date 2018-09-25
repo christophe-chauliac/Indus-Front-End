@@ -9,6 +9,9 @@ https://frontendchecklist.io/
 ## Front-end bookmark : 
 https://frontendmasters.com/books/front-end-handbook/2018/
 
+## Arbre de structuration d'une page html
+http://bioub.github.io/d3.DOMVisualizer/
+
 ## Git
 
 ### Repo github : 
@@ -87,7 +90,7 @@ https://github.com/gdi2290/awesome-angular
 
 https://bestof.js.org/
 https://npmcharts.com/
- 
+
 ## Framework front-end
 
 ### Bootstrap
@@ -116,3 +119,9 @@ https://rollupjs.org/guide/en
 
 ### Webpack
 https://webpack.js.org/
+https://webpack.js.org/configuration/#options
+
+## Webcomponents et custom elements
+https://www.webcomponents.org/
+https://www.webcomponents.org/element/GoogleWebComponents/google-map
+
