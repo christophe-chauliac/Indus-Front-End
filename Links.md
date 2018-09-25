@@ -121,7 +121,13 @@ https://rollupjs.org/guide/en
 https://webpack.js.org/
 https://webpack.js.org/configuration/#options
 
-## Webcomponents et custom elements
+### Webcomponents et custom elements
 https://www.webcomponents.org/
 https://www.webcomponents.org/element/GoogleWebComponents/google-map
 
+## Méthodologie HTML/CSS
+
+### BEM
+http://getbem.com/
+### ITCSS
+https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
