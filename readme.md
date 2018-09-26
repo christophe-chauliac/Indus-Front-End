@@ -1,7 +1,8 @@
 Formation industrialisation Front-End
 =====================================
 
-# Liens utiles
+## Source
+https://github.com/bioub
 
 ## Site de Romain : 
 https://formation.tech/formations
@@ -124,6 +125,12 @@ https://rollupjs.org/guide/en
 https://webpack.js.org/
 https://webpack.js.org/configuration/#options
 
+## HTML webpack plugin 
+https://github.com/jantimon/html-webpack-plugin
+
+## Date-fns
+https://date-fns.org/
+
 ### Webcomponents et custom elements
 https://www.webcomponents.org/
 https://www.webcomponents.org/element/GoogleWebComponents/google-map
@@ -134,3 +141,10 @@ https://www.webcomponents.org/element/GoogleWebComponents/google-map
 http://getbem.com/
 ### ITCSS
 https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+
+## SASS (préprocesseur CSS)
+https://sass-lang.com/guide
+
+## PostCSS (postprocesseur CSS)
+https://postcss.org/
+https://www.postcss.parts/
