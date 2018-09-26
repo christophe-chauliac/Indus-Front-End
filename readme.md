@@ -3,6 +3,7 @@ Formation industrialisation Front-End
 
 ## Source
 https://github.com/bioub
+https://github.com/bioub/Formation_Industrialisation_Front_End_2018_09
 
 ## Site de Romain : 
 https://formation.tech/formations
@@ -125,10 +126,10 @@ https://rollupjs.org/guide/en
 https://webpack.js.org/
 https://webpack.js.org/configuration/#options
 
-## HTML webpack plugin 
+### HTML webpack plugin 
 https://github.com/jantimon/html-webpack-plugin
 
-## Date-fns
+### Date-fns
 https://date-fns.org/
 
 ### Webcomponents et custom elements
@@ -148,3 +149,56 @@ https://sass-lang.com/guide
 ## PostCSS (postprocesseur CSS)
 https://postcss.org/
 https://www.postcss.parts/
+
+## JS 
+
+### Syntaxe avant/après 2015
+http://es6-features.org/#Constants
+
+### Transformateur de syntaxe JS
+https://babeljs.io/
+
+### Compatibilité des fonctionnalités ECMAScript 6 par navigateurs 
+https://kangax.github.io/compat-table/es6/
+
+## Tests sur la qualité du code 
+
+### html lint
+https://github.com/htmllint/htmllint
+
+### style lint
+https://github.com/stylelint/stylelint
+
+### es lint
+https://github.com/eslint/eslint
+
+### prettier (pour le JS et CSS/SCSS)
+https://github.com/prettier/prettier
+
+### Husky + lint-satged
+https://github.com/okonet/lint-staged
+
+## Scaffolder / Générateur (de bibliothèques, de code,...)
+http://yeoman.io/
+
+## Tests automatisés
+
+### Mocha
+https://mochajs.org/
+
+### Chai
+https://www.chaijs.com/
+
+
+### Karma
+https://karma-runner.github.io/2.0/index.html
+
+### Jasmine
+https://jasmine.github.io/
+
+### Jest
+https://jestjs.io/
+
+### Ecrire ses tests
+https://codecept.io/
+https://www.seleniumhq.org/
