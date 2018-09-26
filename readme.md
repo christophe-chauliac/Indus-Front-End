@@ -5,6 +5,9 @@ Formation industrialisation Front-End
 https://github.com/bioub
 https://github.com/bioub/Formation_Industrialisation_Front_End_2018_09
 
+## Veille
+https://bestofjs.org/
+
 ## Site de Romain : 
 https://formation.tech/formations
 
