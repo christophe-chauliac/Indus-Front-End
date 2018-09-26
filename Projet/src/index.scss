@@ -1,0 +1,27 @@
+$mainColor: blueviolet;
+// $paddingBody: 10px;
+@mixin colWidth ($colWidth) {
+  width: ($colWidth);
+}
+
+a {
+  color: $mainColor;
+}
+
+.bg-card {
+  background-color: lighten($mainColor, 15%);
+}
+
+.colonne-1 {
+  @include colWidth (25%);
+}
+.colonne-2-4 {
+  @include colWidth (75%);
+}
+
+// flex: 0 0 25%;
+// width: 25%;
+// flex: 0 0 75%;
+// width: 75%;
+// position: relative;
+// width: 100%;

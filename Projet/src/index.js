@@ -1,6 +1,7 @@
 import $ from 'jquery';
 import './custom-bootstrap.js';
 import './custom-bootstrap.scss';
+import './index.scss';
 
 import { Clock } from './horloge';
 
